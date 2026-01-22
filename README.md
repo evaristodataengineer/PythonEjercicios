@@ -478,22 +478,15 @@ Docstrings en formato Google/NumPy para todas las funciones.
 - [ ] Implementar data versioning con DVC
 - [ ] Agregar monitoreo con Great Expectations
 
-## 🤝 Contribuciones
+## 👨‍💻 Sobre mí
 
-Las contribuciones son bienvenidas. Si deseas mejorar algún ejercicio o añadir nuevos ejemplos:
-
-1. Haz un Fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/NuevaCaracteristica`)
-3. Commit tus cambios (`git commit -m 'Añadir nueva característica'`)
-4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible para fines educativos.
+Soy Evaristo Sandoval Gil, desarrollador con formación en desarrollo web y especialización en 
+Big Data, IA y Cloud, actualmente enfocado en iniciar mi carrera profesional en el mundo de los datos.
 
 ## 📧 Contacto
 
+Si eres reclutador, technical lead o formas parte de un equipo de datos y quieres comentar este proyecto
+o mi perfil profesional, puedes contactarme a través de LinkedIn o GitHub.
 Si tienes preguntas o sugerencias, no dudes en abrir un issue en este repositorio.
 
 ---
